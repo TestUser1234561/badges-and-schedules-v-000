@@ -17,4 +17,5 @@ def assign_rooms(speakers)
     rooms << "Hello, #{speaker}! You'll be assigned to room #{i}!"
     i+=1
   end
+  return rooms
 end

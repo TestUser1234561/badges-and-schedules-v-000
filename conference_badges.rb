@@ -11,7 +11,9 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms(speakers)
+  i = 0
+  rooms = []
   speakers.each do |speaker|
-
+    
   end
 end
